@@ -16,3 +16,5 @@ ergerg
 
 往GitHub远程仓库推送新内容
 
+SSH_KEY
+
